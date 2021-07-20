@@ -1,10 +1,15 @@
+package domainbook.service;
+
+import domainbook.data.Book;
+import domainbook.repository.BooksRepository;
+
 import java.util.UUID;
 
-public class BookServiceImpl implements IBookServices{
+public class BooksServiceImpl implements BooksServices {
 
-    private final IBooksRepository booksRepository;
+    private final BooksRepository booksRepository;
 
-    public BookServiceImpl(IBooksRepository booksRepository) {
+    public BooksServiceImpl(BooksRepository booksRepository) {
         this.booksRepository = booksRepository;
     }
 

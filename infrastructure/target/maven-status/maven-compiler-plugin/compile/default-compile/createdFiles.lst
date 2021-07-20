@@ -1,0 +1,4 @@
+infrastructurbook\connection\DatabaseUtils.class
+module-info.class
+infrastructurbook\ApplicationMain.class
+infrastructurbook\bookimpl\BooksRepositoryImpl.class

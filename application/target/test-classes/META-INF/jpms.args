@@ -1,0 +1,4 @@
+--patch-module
+orx.example.application=_
+--add-reads
+orx.example.application=ALL-UNNAMED

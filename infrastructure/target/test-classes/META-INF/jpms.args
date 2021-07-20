@@ -1,0 +1,4 @@
+--patch-module
+org.example.infrastructure=_
+--add-reads
+org.example.infrastructure=ALL-UNNAMED

@@ -7,8 +7,6 @@ p
 @domain/src/main/java/domainbook/service/BooksServiceFactory.java,4\4\44ac4ae03e1578bf7deb3e9a25524cffc332a159
 m
 =domain/src/main/java/domainbook/service/BooksServiceImpl.java,2\f\2f7ad5acc11bac7dcd28673ec4c831e01afe8a18
-^
-.domain/src/main/java/domainbook/data/Book.java,5\d\5dababb88ae28ea92a77b10565be1bd53f5634be
 ]
 -application/src/main/java/app/ConsoleApp.java,8\4\84432d9b919285312e705d7f9e67a2ab0dae2b6d
 C
